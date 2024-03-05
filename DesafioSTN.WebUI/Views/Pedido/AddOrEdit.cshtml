@@ -1,0 +1,60 @@
+﻿@model DesafioSTN.Application.DTOs.PedidoDTO
+
+@{
+    Layout = null;
+}
+
+<style>
+    .form-group {
+        margin-bottom: 15px; /* Adiciona espaço entre as linhas */
+    }
+
+    .btn-block {
+        width: 100%; /* Define a largura do botão para 100% */
+    }
+
+    .submit-button-row {
+        margin-top: 15px; /* Adiciona espaço entre o valor total e o botão submit */
+    }
+</style>
+
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="AddOrEdit" asp-route-id="@Model.Id" onsubmit="return jQueryAjaxPost(this);">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-6">
+                        <label asp-for="NomeCliente" class="control-label"></label>
+                        <input asp-for="NomeCliente" class="form-control" />
+                        <span asp-validation-for="NomeCliente" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <label asp-for="EmailCliente" class="control-label"></label>
+                        <input asp-for="EmailCliente" class="form-control" />
+                        <span asp-validation-for="EmailCliente" class="text-danger"></span>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label asp-for="ValorTotal" class="control-label"></label>
+                            <input asp-for="ValorTotal" class="form-control" />
+                            <span asp-validation-for="ValorTotal" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row submit-button-row"> 
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <input type="submit" value="Submit" class="btn btn-primary btn-block" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

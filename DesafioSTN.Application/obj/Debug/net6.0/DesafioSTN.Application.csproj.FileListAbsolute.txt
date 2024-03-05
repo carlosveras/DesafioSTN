@@ -1,0 +1,15 @@
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\bin\Debug\net6.0\DesafioSTN.Application.deps.json
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\bin\Debug\net6.0\DesafioSTN.Application.dll
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\bin\Debug\net6.0\DesafioSTN.Application.pdb
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\bin\Debug\net6.0\DesafioSTN.Domain.dll
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\bin\Debug\net6.0\DesafioSTN.Domain.pdb
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\obj\Debug\net6.0\DesafioSTN.Application.csproj.AssemblyReference.cache
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\obj\Debug\net6.0\DesafioSTN.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\obj\Debug\net6.0\DesafioSTN.Application.AssemblyInfoInputs.cache
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\obj\Debug\net6.0\DesafioSTN.Application.AssemblyInfo.cs
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\obj\Debug\net6.0\DesafioSTN.Application.csproj.CoreCompileInputs.cache
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\obj\Debug\net6.0\DesafioS.57C98684.Up2Date
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\obj\Debug\net6.0\DesafioSTN.Application.dll
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\obj\Debug\net6.0\refint\DesafioSTN.Application.dll
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\obj\Debug\net6.0\DesafioSTN.Application.pdb
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Application\obj\Debug\net6.0\ref\DesafioSTN.Application.dll

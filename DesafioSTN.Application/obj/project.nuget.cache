@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yBSV8QOTcgogAlZkrubbX1Mo5D5f0ub5+tH0HyQ4hyvIqzrPlJG+NOkKDSzwAr6tp6fMzdxwvWTtEPbMqygXng==",
+  "success": true,
+  "projectFilePath": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.Application\\DesafioSTN.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

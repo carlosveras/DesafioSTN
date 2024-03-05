@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DesafioSTN.Api</name>
+    </assembly>
+    <members>
+        <member name="M:DesafioSTN.Api.Controllers.DesafioStnController.GetAll">
+            <summary>
+            Obter todos os pedidos
+            </summary>
+            <returns>Coleção de pedidos</returns>
+            <response code="200">OK</response>
+            <response code="500">InternalServerError</response>
+        </member>
+        <member name="M:DesafioSTN.Api.Controllers.DesafioStnController.GetById(System.Int32)">
+            <summary>
+            Obter um Pedido
+            </summary>
+            <remarks>
+            {"Id": "int"}
+            </remarks>
+            <param name="id">Identificador do pedido</param>
+            <returns>Dados do pedido</returns>
+            <response code="200">OK</response>
+            <response code="404">NotFound</response>
+        </member>
+        <member name="M:DesafioSTN.Api.Controllers.DesafioStnController.Add(DesafioSTN.Application.DTOs.PedidoCreateDTO)">
+            <summary>
+            Inserir um pedido
+            </summary>
+            <remarks>
+            {"id": 0, "nomeCliente": "string", "emailCliente": "user@example.com","pago": true,"valorTotal": 0}
+            </remarks>
+            <param name="pedidoCreateDTO"></param>
+            <returns>Objeto recém-criado</returns>
+            <response code="201">Created</response>
+            <response code="500">InternalServerError</response>
+        </member>
+        <member name="M:DesafioSTN.Api.Controllers.DesafioStnController.Put(DesafioSTN.Application.DTOs.PedidoUpdateDTO)">
+            <summary>
+            Alterar um pedido
+            </summary>
+            <remarks>
+            
+            </remarks>
+            <returns>Objeto recém-criado</returns>
+            <response code="201">Sucesso</response>
+            <response code="404">Não encontrado</response>
+            <response code="400">Bad Request</response>
+        </member>
+        <member name="M:DesafioSTN.Api.Controllers.DesafioStnController.DeleteById(System.Int32)">
+            <summary>
+            Excluir um Pedido
+            </summary>
+            <remarks>
+            {"Id": "int"}
+            </remarks>
+            <param name="id">Identificador do pedido</param>
+            <returns>Dados do pedido</returns>
+            <response code="200">OK</response>
+            <response code="404">NotFound</response>
+        </member>
+    </members>
+</doc>

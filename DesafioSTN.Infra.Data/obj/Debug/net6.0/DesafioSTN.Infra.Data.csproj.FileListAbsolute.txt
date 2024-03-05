@@ -1,0 +1,17 @@
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\bin\Debug\net6.0\DesafioSTN.Infra.Data.deps.json
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\bin\Debug\net6.0\DesafioSTN.Infra.Data.runtimeconfig.json
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\bin\Debug\net6.0\DesafioSTN.Infra.Data.dll
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\bin\Debug\net6.0\DesafioSTN.Infra.Data.pdb
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\bin\Debug\net6.0\DesafioSTN.Domain.dll
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\bin\Debug\net6.0\DesafioSTN.Domain.pdb
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\obj\Debug\net6.0\DesafioSTN.Infra.Data.csproj.AssemblyReference.cache
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\obj\Debug\net6.0\DesafioSTN.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\obj\Debug\net6.0\DesafioSTN.Infra.Data.AssemblyInfoInputs.cache
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\obj\Debug\net6.0\DesafioSTN.Infra.Data.AssemblyInfo.cs
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\obj\Debug\net6.0\DesafioSTN.Infra.Data.csproj.CoreCompileInputs.cache
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\obj\Debug\net6.0\DesafioS.5CDA5554.Up2Date
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\obj\Debug\net6.0\DesafioSTN.Infra.Data.dll
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\obj\Debug\net6.0\refint\DesafioSTN.Infra.Data.dll
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\obj\Debug\net6.0\DesafioSTN.Infra.Data.pdb
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\obj\Debug\net6.0\DesafioSTN.Infra.Data.genruntimeconfig.cache
+C:\TestesDeEmpresas\Stefanini\DesafioSTN\DesafioSTN.Infra.Data\obj\Debug\net6.0\ref\DesafioSTN.Infra.Data.dll

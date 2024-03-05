@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|c:\\testesdeempresas\\stefanini\\desafiostn\\desafiostn.webui\\views\\pedido\\_viewall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|solutionrelative:desafiostn.webui\\views\\pedido\\_viewall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|c:\\testesdeempresas\\stefanini\\desafiostn\\desafiostn.webui\\views\\pedido\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|solutionrelative:desafiostn.webui\\views\\pedido\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|c:\\testesdeempresas\\stefanini\\desafiostn\\desafiostn.webui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|solutionrelative:desafiostn.webui\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|c:\\testesdeempresas\\stefanini\\desafiostn\\desafiostn.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|solutionrelative:desafiostn.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|c:\\testesdeempresas\\stefanini\\desafiostn\\desafiostn.webui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|solutionrelative:desafiostn.webui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|c:\\testesdeempresas\\stefanini\\desafiostn\\desafiostn.webui\\views\\pedido\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|solutionrelative:desafiostn.webui\\views\\pedido\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|c:\\testesdeempresas\\stefanini\\desafiostn\\desafiostn.webui\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BC82D1-2F30-4A52-820E-C520C6BEAEC4}|DesafioSTN.WebUI\\DesafioSTN.WebUI.csproj|solutionrelative:desafiostn.webui\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "DesafioSTN.WebUI\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "DesafioSTN.WebUI\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-05T19:20:45.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "DesafioSTN.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "DesafioSTN.WebUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T19:02:31.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\Views\\Pedido\\Index.cshtml",
+              "RelativeDocumentMoniker": "DesafioSTN.WebUI\\Views\\Pedido\\Index.cshtml",
+              "ToolTip": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\Views\\Pedido\\Index.cshtml",
+              "RelativeToolTip": "DesafioSTN.WebUI\\Views\\Pedido\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T19:02:20.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewAll.cshtml",
+              "DocumentMoniker": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\Views\\Pedido\\_ViewAll.cshtml",
+              "RelativeDocumentMoniker": "DesafioSTN.WebUI\\Views\\Pedido\\_ViewAll.cshtml",
+              "ToolTip": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\Views\\Pedido\\_ViewAll.cshtml",
+              "RelativeToolTip": "DesafioSTN.WebUI\\Views\\Pedido\\_ViewAll.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T19:01:17.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\Views\\Pedido\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "DesafioSTN.WebUI\\Views\\Pedido\\AddOrEdit.cshtml",
+              "ToolTip": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\Views\\Pedido\\AddOrEdit.cshtml",
+              "RelativeToolTip": "DesafioSTN.WebUI\\Views\\Pedido\\AddOrEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T19:01:09.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DesafioSTN.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DesafioSTN.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-05T19:00:53.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "DesafioSTN.WebUI\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\TestesDeEmpresas\\Stefanini\\DesafioSTN\\DesafioSTN.WebUI\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "DesafioSTN.WebUI\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:00:43.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
